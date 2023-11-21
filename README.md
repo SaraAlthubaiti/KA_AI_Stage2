@@ -18,3 +18,7 @@ Welcome to stage 2 of Artificial Intelligence Program! This repository contains 
 
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
+
+## Useful resources 
+
+- https://www.youtube.com/watch?v=BRoWn5nCtqE&list=PLRti8mDcwZH0LxfojJS_CLrDyTNdiEFJm
